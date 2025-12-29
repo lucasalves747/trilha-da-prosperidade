@@ -25,9 +25,20 @@ export const Footer: React.FC = () => {
               <li className="flex items-center text-sm font-medium"><span className="text-green-500 mr-2 flex-shrink-0">✓</span> Aulas ao vivo com gravações</li>
             </ul>
 
-            <Button fullWidth className="text-base md:text-lg py-3 md:py-4 shadow-yellow-500/20">
-              Garantir minha vaga agora
-            </Button>
+            <Button
+  asChild
+  fullWidth
+  className="text-base md:text-lg py-3 md:py-4 shadow-yellow-500/20"
+>
+  <a
+    href="https://plataformamiami.com/trilha-checkout"
+    target="_blank"
+    rel="noopener noreferrer"
+  >
+    Garantir minha vaga agora
+  </a>
+</Button>
+
           </div>
         </div>
 
