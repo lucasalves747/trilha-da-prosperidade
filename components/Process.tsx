@@ -1,7 +1,7 @@
 import React from 'react';
 import { Section } from './ui/Section';
 import { CheckCircle2, TrendingUp, Zap } from 'lucide-react';
-import bgVideo from '@/assets/semX.MP4'; // seu vídeo
+import bgVideo from '@/assets/semX.mp4'; // seu vídeo
 
 export const Process: React.FC = () => {
   return (
