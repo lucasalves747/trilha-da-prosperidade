@@ -12,7 +12,7 @@ export const Process: React.FC = () => {
         muted
         
         playsInline
-        className="absolute inset-0 w-full h-full object-cover z-0 "
+        className="absolute inset-0 w-full h-full  z-0 "
       >
         <source src="https://storage.googleapis.com/msgsndr/dkM0aNpySiIFf3uusFTa/media/695451c8031d70a70baffcf4.mp4" type="video/mp4" />
         Seu navegador não suporta vídeo.
