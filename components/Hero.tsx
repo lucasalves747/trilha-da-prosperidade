@@ -83,7 +83,7 @@ export const Hero: React.FC = () => {
             className="
               w-full sm:w-auto
               text-base md:text-lg
-              px-6 py-4 md:px-10 md:py-5
+              px-0 py-0 md:px-10 md:py-5
             "
           >
             Quero começar 2026 na trilha certa
