@@ -17,7 +17,6 @@ export const Hero: React.FC = () => {
   playsInline
   className="absolute mt-12 inset-0 w-full h-full z-0"
 >
-
         <source
           src="https://storage.googleapis.com/msgsndr/dkM0aNpySiIFf3uusFTa/media/695451319e7c130232167652.mp4"
           type="video/mp4"

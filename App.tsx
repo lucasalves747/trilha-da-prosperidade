@@ -35,8 +35,8 @@ function App() {
       <nav className="fixed top-0 left-0 w-full z-50 bg-white/80 backdrop-blur-md border-b border-stone-100 transition-all">
         <div className="container mx-auto px-4 h-16 flex items-center justify-between">
           <span className="font-serif font-bold text-xl tracking-tight">Trilha da Prosperidade</span>
-          <Button onClick={scrollToPricing} variant="primary" className="text-sm px-2 py-1">
-            Entrar no Desafio
+          <Button onClick={scrollToPricing} variant="primary" className="text-sm px-1 py-0 md:py-1">
+            Entrar
           </Button>
         </div>
       </nav>
