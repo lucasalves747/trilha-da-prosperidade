@@ -10,6 +10,9 @@ export const Pillars: React.FC = () => {
         <p className="text-stone-500 font-medium tracking-widest uppercase text-sm md:text-base">Metodologia 7 + 7 + 7</p>
       </div>
 
+
+
+
       <div className="space-y-6 md:space-y-8">
         {/* Pillar 1 - Health */}
         <div className="group relative overflow-hidden bg-white rounded-3xl shadow-xl border border-stone-100 transition-all hover:shadow-2xl">
