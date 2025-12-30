@@ -5,7 +5,7 @@ import { XCircle, AlertTriangle } from 'lucide-react';
 export const PainPoints: React.FC = () => {
   return (
     <Section className="bg-[#FACC15]">
-      <div className="grid md:grid-cols-2 gap-8 md:gap-12 items-center p-6 pt-0 md:p-12">
+      <div className="grid md:grid-cols-2 gap-2 md:gap-12 items-center p-6 pt-0 pb-0 md:p-12">
 
         {/* Coluna esquerda */}
         <div>

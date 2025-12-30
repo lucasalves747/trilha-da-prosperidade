@@ -3,7 +3,7 @@ import { Button } from './ui/Button';
 
 export const Footer: React.FC = () => {
   return (
-    <footer className="bg-white border-t border-stone-100 pt-12 md:pt-20 pb-10">
+    <footer className="bg-white border-t border-stone-100 pt-6 md:pt-20 pb-10">
       <div className="container mx-auto px-4 text-center">
         <div className="max-w-4xl mx-auto mb-16">
           <h2 className="text-3xl md:text-5xl font-serif font-bold mb-6">

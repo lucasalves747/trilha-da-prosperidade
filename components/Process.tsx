@@ -19,7 +19,7 @@ export const Process: React.FC = () => {
       </video>
 
       {/* CONTEÚDO */}
-      <div className="relative z-10 text-center max-w-3xl mx-auto mb-16">
+      <div className="relative z-10 text-center max-w-3xl mx-auto mb-8">
         <h2 className="text-3xl md:text-5xl font-serif font-bold mb-6 ">
           O que é a Trilha da Prosperidade?
         </h2>
@@ -63,7 +63,7 @@ export const Process: React.FC = () => {
         ))}
       </div>
 
-      <div className="relative z-10 mt-12 text-center">
+      <div className="relative z-10 mt-6 text-center">
         <div className="inline-flex items-center justify-center px-6 py-2 bg-brand-dark text-white rounded-full text-sm font-semibold tracking-wide">
           👉 O RESULTADO VEM DA AÇÃO DIÁRIA GUIADA
         </div>

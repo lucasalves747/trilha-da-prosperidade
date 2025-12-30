@@ -13,7 +13,7 @@ export const Section: React.FC<SectionProps> = ({ children, className = '', id, 
   const isInView = useInView(ref, { once: true, margin: "-100px" });
 
   return (
-    <section id={id} ref={ref} className={`relative py-12 md:py-20 overflow-hidden ${className}`}>
+    <section id={id} ref={ref} className={`relative py-6 md:py-20 overflow-hidden ${className}`}>
       <motion.div
         initial={{ opacity: 0, y: 50 }}
         animate={isInView ? { opacity: 1, y: 0 } : { opacity: 0, y: 50 }}
