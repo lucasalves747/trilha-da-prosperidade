@@ -20,17 +20,13 @@ export const Hero: React.FC = () => {
         muted
         loop
         playsInline
-        className="hidden md:block absolute inset-0 w-full h-full object-container z-0"
+        className="block absolute inset-0 w-full h-full object-container z-0"
       >
         <source src="https://storage.googleapis.com/msgsndr/dkM0aNpySiIFf3uusFTa/media/695451319e7c130232167652.mp4" type="video/mp4" />
         Seu navegador não suporta vídeo.
       </video>
 
-      {/* IMAGEM PARA MOBILE */}
-      <div
-        className="md:hidden absolute inset-0 w-full h-full bg-center bg-cover z-0"
-        style={{ backgroundImage: `url(${bgImageMobile})` }}
-      ></div>
+      
 
       {/* CONTEÚDO */}
       <div className="container mx-auto px-4 relative z-20 text-center">
