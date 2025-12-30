@@ -3,7 +3,7 @@ import { motion } from 'framer-motion';
 import { Button } from './ui/Button';
 
 // Vídeo de fundo desktop
-import bgVideo from '@/assets/IMG_2450.mp4';
+import bgVideo from '@/assets/img.mp4';
 // Imagem de fundo mobile
 import bgImageMobile from '@/assets/image.png';
 
