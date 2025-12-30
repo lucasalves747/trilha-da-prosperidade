@@ -1,7 +1,7 @@
 import React from 'react';
 import { Section } from './ui/Section';
 import { CheckCircle2, TrendingUp, Zap } from 'lucide-react';
-import bgVideo from '@/assets/semX.mp4'; // seu vídeo
+
 
 export const Process: React.FC = () => {
   return (
@@ -14,7 +14,7 @@ export const Process: React.FC = () => {
         playsInline
         className="absolute inset-0 w-full h-full object-cover z-0 "
       >
-        <source src={bgVideo} type="video/mp4" />
+        <source src="https://storage.googleapis.com/msgsndr/dkM0aNpySiIFf3uusFTa/media/695451c8031d70a70baffcf4.mp4" type="video/mp4" />
         Seu navegador não suporta vídeo.
       </video>
 
