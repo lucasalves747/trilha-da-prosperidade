@@ -16,7 +16,7 @@ export const Footer: React.FC = () => {
           
           <div id="pricing" className="bg-yellow-50 p-6 md:p-8 rounded-3xl border border-yellow-100 shadow-lg max-w-lg mx-auto transform transition-transform md:hover:scale-105">
             <h3 className="text-2xl font-bold mb-2">Trilha da Prosperidade</h3>
-            <p className="text-stone-500 mb-6 text-sm md:text-base">Início: 05 de Janeiro • Término: 26 de Janeiro</p>
+            
             
             <ul className="text-left space-y-3 mb-8 bg-white p-5 md:p-6 rounded-xl">
               <li className="flex items-center text-sm font-medium"><span className="text-green-500 mr-2 flex-shrink-0">✓</span> Desafio prático de 21 dias</li>
