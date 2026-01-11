@@ -36,7 +36,7 @@ export const Hero: React.FC = () => {
           transition={{ duration: 0.5 }}
           className="inline-block mb-4 px-4 py-1.5 bg-yellow-400/30 text-stone-900 font-semibold rounded-full text-xs sm:text-sm uppercase tracking-wider"
         >
-          🔥 O Desafio de 21 Dias
+          🔥 O Desafio de 14 Dias
         </motion.div>
 
         {/* Título */}
