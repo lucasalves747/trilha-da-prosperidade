@@ -90,7 +90,7 @@ export const Hero: React.FC = () => {
           </Button>
 
           <p className="mt-4 text-xs sm:text-sm text-black/80 max-w-lg mx-auto">
-            Um desafio prático e personalizado de 21 dias, criado para gerar resultados reais no curto prazo.
+            Um desafio prático e personalizado de 14 dias, criado para gerar resultados reais no curto prazo.
           </p>
         </motion.div>
       </div>

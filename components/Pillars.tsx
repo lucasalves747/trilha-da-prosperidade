@@ -7,7 +7,7 @@ export const Pillars: React.FC = () => {
     <Section className="bg-gradient-to-b from-stone-50 to-white" id="details">
       <div className="text-center mb-10 md:mb-16">
         <h2 className="text-3xl md:text-4xl font-serif font-bold mb-4">Os 3 Pilares na Prática</h2>
-        <p className="text-stone-500 font-medium tracking-widest uppercase text-sm md:text-base">Metodologia 7 + 7 + 7</p>
+        
       </div>
 
 
