@@ -33,20 +33,20 @@ export const Process: React.FC = () => {
         {[
           {
             icon: <CheckCircle2 className="w-8 h-8 text-blue-600" />,
-            title: "Ajustar a Base",
-            desc: "7 dias iniciais para corrigir o que te impede de crescer.",
+            title: "Ajustar a Base: ",
+            desc: "Elimine o que te impede de crescer",
             bg: "bg-blue-50/80 backdrop-blur-md"
           },
           {
             icon: <Zap className="w-8 h-8 text-yellow-600" />,
             title: "Estruturar",
-            desc: "7 dias para criar processos que funcionam sem seu esforço constante.",
+            desc: "Crie processos que funcionem sem seu esforço constante",
             bg: "bg-yellow-50/80 backdrop-blur-md"
           },
           {
             icon: <TrendingUp className="w-8 h-8 text-purple-600" />,
             title: "Alavancar",
-            desc: "7 dias finais para multiplicar resultados usando o digital.",
+            desc: "Multiplique resultados em escala com Digital",
             bg: "bg-purple-50/80 backdrop-blur-md"
           }
         ].map((step, idx) => (

@@ -24,7 +24,7 @@ export const Pillars: React.FC = () => {
                 <Heart className="w-6 h-6 md:w-8 md:h-8" />
               </div>
               <h3 className="text-2xl md:text-3xl font-bold text-stone-900">Saúde</h3>
-              <p className="text-green-700 font-medium mt-1 md:mt-2">Dias 1 a 7</p>
+              
             </div>
             <div className="md:col-span-8 p-6 md:p-10 flex flex-col justify-center">
               <p className="text-base md:text-lg text-stone-600 mb-6">
@@ -51,7 +51,7 @@ export const Pillars: React.FC = () => {
                 <Wallet className="w-6 h-6 md:w-8 md:h-8" />
               </div>
               <h3 className="text-2xl md:text-3xl font-bold text-stone-900">Finanças</h3>
-              <p className="text-blue-700 font-medium mt-1 md:mt-2">Dias 8 a 14</p>
+              
             </div>
             <div className="md:col-span-8 p-6 md:p-10 flex flex-col justify-center">
               <p className="text-base md:text-lg text-stone-600 mb-6">
@@ -78,7 +78,7 @@ export const Pillars: React.FC = () => {
                 <Smartphone className="w-6 h-6 md:w-8 md:h-8" />
               </div>
               <h3 className="text-2xl md:text-3xl font-bold text-stone-900">Digital</h3>
-              <p className="text-purple-700 font-medium mt-1 md:mt-2">Dias 15 a 21</p>
+              
             </div>
             <div className="md:col-span-8 p-6 md:p-10 flex flex-col justify-center">
               <p className="text-base md:text-lg text-stone-600 mb-6">

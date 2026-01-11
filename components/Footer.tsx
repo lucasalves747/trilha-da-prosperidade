@@ -19,7 +19,7 @@ export const Footer: React.FC = () => {
             
             
             <ul className="text-left space-y-3 mb-8 bg-white p-5 md:p-6 rounded-xl">
-              <li className="flex items-center text-sm font-medium"><span className="text-green-500 mr-2 flex-shrink-0">✓</span> Desafio prático de 21 dias</li>
+              <li className="flex items-center text-sm font-medium"><span className="text-green-500 mr-2 flex-shrink-0">✓</span> Desafio prático de 14 dias</li>
               <li className="flex items-center text-sm font-medium"><span className="text-green-500 mr-2 flex-shrink-0">✓</span> Conteúdo objetivo + execução diária</li>
               <li className="flex items-center text-sm font-medium"><span className="text-green-500 mr-2 flex-shrink-0">✓</span> Grupo de acompanhamento</li>
               <li className="flex items-center text-sm font-medium"><span className="text-green-500 mr-2 flex-shrink-0">✓</span> Aulas ao vivo com gravações</li>
